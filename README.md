@@ -60,7 +60,7 @@ if you want to transfer money to other account for example in my case sarah smit
 
 ## that all and thats how it depicts the transaction just like bank  has  this is what bankist is 
 
-## now you can understand the project logic and working thank you
+## I hope you understood project working and  the project logic  thank you
 
 
 
